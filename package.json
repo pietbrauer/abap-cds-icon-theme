@@ -2,7 +2,7 @@
   "name": "abap-cds-file-icons",
   "displayName": "ABAP CDS File Icons",
   "description": "File icons for ABAP RAP development — CDS views, behavior definitions, service bindings, DDIC objects and more.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "nerdishbynature",
   "license": "MIT",
   "engines": {
