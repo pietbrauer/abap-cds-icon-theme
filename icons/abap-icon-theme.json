@@ -27,6 +27,7 @@
     "_abap_enho":     { "iconPath": "./svg/enho.svg" },
     "_abap_enhs":     { "iconPath": "./svg/enhs.svg" },
     "_abap_chdo":     { "iconPath": "./svg/chdo.svg" },
+    "_abap_msag":     { "iconPath": "./svg/msag.svg" },
     "_abap_generic":  { "iconPath": "./svg/abap.svg" }
   },
 
@@ -45,9 +46,12 @@
     "func.abap":              "_abap_func",
     "ddls.asddls":            "_abap_ddls",
     "ddlx.asddlx":            "_abap_ddlx",
+    "ddlx.asddlxs":           "_abap_ddlx",
     "bdef.asbdef":            "_abap_bdef",
     "srvd.asdsrvd":           "_abap_srvd",
+    "srvd.srvdsrv":           "_abap_srvd",
     "srvb.asdsrvb":           "_abap_srvb",
+    "srvb.xml":               "_abap_srvb",
     "dsbind.asdsrvb":         "_abap_srvb",
     "dcls.asdcls":            "_abap_dcls",
     "tabl.xml":               "_abap_tabl",
@@ -64,6 +68,7 @@
     "enho.xml":               "_abap_enho",
     "enhs.xml":               "_abap_enhs",
     "chdo.xml":               "_abap_chdo",
+    "msagn.xml":              "_abap_msag",
     "asddls":                 "_abap_ddls",
     "asddlx":                 "_abap_ddlx",
     "asbdef":                 "_abap_bdef",

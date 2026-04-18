@@ -29,6 +29,7 @@ File icons for ABAP RAP development in Visual Studio Code. Designed for use with
 | 🟨 | EI | Enhancement Implementation | `*.enho.xml` |
 | 🟫 | ES | Enhancement Spot | `*.enhs.xml` |
 | 🟫 | CD | Change Document | `*.chdo.xml` |
+| 🟥 | MC | Message Class | `*.msagn.xml` |
 | 🟦 | AB | Generic ABAP | `*.abap` |
 
 ## Installation
