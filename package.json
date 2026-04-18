@@ -1,0 +1,40 @@
+{
+  "name": "abap-cds-file-icons",
+  "displayName": "ABAP CDS File Icons",
+  "description": "File icons for ABAP RAP development — CDS views, behavior definitions, service bindings, DDIC objects and more.",
+  "version": "0.1.0",
+  "publisher": "nerdishbynature",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "abap",
+    "cds",
+    "rap",
+    "sap",
+    "icons",
+    "abapfs",
+    "fiori"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nerdishbynature/abap-cds-vscode-plugin"
+  },
+  "galleryBanner": {
+    "color": "#1873B4",
+    "theme": "dark"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "abap-cds",
+        "label": "ABAP CDS Icons",
+        "path": "./icons/abap-icon-theme.json"
+      }
+    ]
+  }
+}
