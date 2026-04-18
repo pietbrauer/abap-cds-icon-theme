@@ -4,32 +4,32 @@ File icons for ABAP RAP development in Visual Studio Code. Designed for use with
 
 ## Supported Object Types
 
-| Icon | Abbr | Object Type | Extension |
-|------|------|-------------|-----------|
-| ![CL](#) | CL | Class | `*.clas.abap` |
-| ![IF](#) | IF | Interface | `*.intf.abap` |
-| ![PR](#) | PR | Program / Report | `*.prog.abap` |
-| ![DS](#) | DS | CDS Data Definition | `*.ddls.asddls` |
-| ![MX](#) | MX | Metadata Extension | `*.ddlx.asddlx` |
-| ![BD](#) | BD | Behavior Definition | `*.bdef.asbdef` |
-| ![SD](#) | SD | Service Definition | `*.srvd.asdsrvd` |
-| ![SB](#) | SB | Service Binding | `*.srvb.asdsrvb` |
-| ![AC](#) | AC | Access Control (DCL) | `*.dcls.asdcls` |
-| ![TB](#) | TB | Database Table | `*.tabl.xml` |
-| ![DE](#) | DE | Data Element | `*.dtel.xml` |
-| ![DM](#) | DM | Domain | `*.doma.xml` |
-| ![ST](#) | ST | Structure | `*.stru.xml` |
-| ![TT](#) | TT | Table Type | `*.ttyp.xml` |
-| ![VW](#) | VW | DDIC View | `*.view.xml` |
-| ![LK](#) | LK | Lock Object | `*.enqu.xml` |
-| ![FG](#) | FG | Function Group | `*.fugr.xml` |
-| ![FM](#) | FM | Function Module | `*.func.abap` |
-| ![NR](#) | NR | Number Range Object | `*.nrob.xml` |
-| ![SH](#) | SH | Search Help | `*.sush.xml`, `*.suso.xml` |
-| ![EI](#) | EI | Enhancement Implementation | `*.enho.xml` |
-| ![ES](#) | ES | Enhancement Spot | `*.enhs.xml` |
-| ![CD](#) | CD | Change Document | `*.chdo.xml` |
-| ![AB](#) | AB | Generic ABAP | `*.abap` |
+| Color | Abbr | Object Type | Extension |
+|-------|------|-------------|-----------|
+| 🟦 | CL | Class | `*.clas.abap` |
+| 🟩 | IF | Interface | `*.intf.abap` |
+| 🟪 | PR | Program / Report | `*.prog.abap` |
+| 🟩 | DS | CDS Data Definition | `*.ddls.asddls` |
+| 🟦 | MX | Metadata Extension | `*.ddlx.asddlx` |
+| 🟧 | BD | Behavior Definition | `*.bdef.asbdef` |
+| 🟦 | SD | Service Definition | `*.srvd.asdsrvd` |
+| 🟦 | SB | Service Binding | `*.srvb.asdsrvb` |
+| 🟥 | AC | Access Control (DCL) | `*.dcls.asdcls` |
+| ⬛ | TB | Database Table | `*.tabl.xml` |
+| 🟪 | DE | Data Element | `*.dtel.xml` |
+| 🟪 | DM | Domain | `*.doma.xml` |
+| 🟥 | ST | Structure | `*.stru.xml` |
+| 🟪 | TT | Table Type | `*.ttyp.xml` |
+| 🟦 | VW | DDIC View | `*.view.xml` |
+| 🟧 | LK | Lock Object | `*.enqu.xml` |
+| 🟧 | FG | Function Group | `*.fugr.xml` |
+| 🟧 | FM | Function Module | `*.func.abap` |
+| 🟩 | NR | Number Range Object | `*.nrob.xml` |
+| 🟩 | SH | Search Help | `*.sush.xml`, `*.suso.xml` |
+| 🟨 | EI | Enhancement Implementation | `*.enho.xml` |
+| 🟫 | ES | Enhancement Spot | `*.enhs.xml` |
+| 🟫 | CD | Change Document | `*.chdo.xml` |
+| 🟦 | AB | Generic ABAP | `*.abap` |
 
 ## Installation
 
